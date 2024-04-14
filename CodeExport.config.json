@@ -1,0 +1,22 @@
+{
+	"Module Paths": {
+		"Module1": "Module1.bas",
+		"Sheet3": "Sheet3.cls",
+		"UserForm1": "UserForm1.frm",
+		"Module2": "Module2.bas",
+		"Module3": "Module3.bas",
+		"ReadDataFileCOMMENT": "ReadDataFileCOMMENT.bas",
+		"OrderRecord": "OrderRecord.cls",
+		"Reports": "Reports.bas",
+		"DatabaseCOMMENT": "DatabaseCOMMENT.bas"
+	},
+	"References": [
+		{
+			"Name": "bpac",
+			"Description": "Brother b-PAC 3.2 Type Library",
+			"GUID": "{90359D74-B7D9-467F-B938-3883F4CAB582}",
+			"Major": 1,
+			"Minor": 3
+		}
+	]
+}

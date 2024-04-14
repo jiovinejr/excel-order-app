@@ -48,6 +48,8 @@ End Sub
 Sub Add_To_Daily()
 
 UserForm1.Hide
+ClearFilters
+
 
 Dim ck As Integer, i As Integer, target As Integer
 
@@ -70,3 +72,5 @@ GetTodaysList
 Worksheets("Needs").Activate
 
 End Sub
+
+
